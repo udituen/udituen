@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Canada based Machine Learning Engineer with 2 years experience as a software engineer and 3 years machine learning engineering. Specialized in research and application of state-of-the-arts machine learning solutions, from development to production.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/udituen-small.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -102,7 +102,7 @@ export const SITE_CONTENT: SiteContent = {
       As building a machine learning solution is similar to engineering a software solution, that is the intersection I bring. I am particularly excited about applying machine learning engineering in the field of health and biotech and have built a number of projects in this domain.
       My projects also range from large language models to generative and self-supervised models, all with a focus on performance, interpretability, and scalability.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/udituen-big.jpg",
   },
 };
 
