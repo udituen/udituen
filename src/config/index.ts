@@ -4,9 +4,9 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Uduak Ituen — Machine Learning Engineer",
   author: "Uduak Monday Ituen",
   description:
-    "Canada based Machine Learning Engineer with 2 years experience as a software engineer and 3 years machine learning engineering. Specialized in research and application of state-of-the-arts machine learning solutions, from development to production.",
+    "Canada-based Machine Learning Engineer with 2 years of experience as a Software Engineer and 3 years in Machine Learning Engineering. Specialized in the research and application of state-of-the-art machine learning solutions, from development to production.",
   lang: "en",
-  siteLogo: "/udituen-small.jpg",
+  siteLogo: "/udituen-small.webp",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -95,14 +95,13 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Uduak Ituen, a mathematics nerd with a passion for seeing mathematical functions come to life as machine learning models. With a strong background in computer science, as research methodologies, I thrive in the implementation of machine learning solutions from theory to full blown production.
+      Hi, I’m Uduak Ituen — a mathematics enthusiast with a passion for bringing mathematical functions to life through machine learning models. With a strong background in computer science and research methodologies, I thrive in translating theory into fully developed machine learning solutions.
 
-      My professional journey began as a software engineer at a financial industry where I horned the skills of agile development and object-oriented programming. I had a growing desire to further my education and obtain a master's degree which I did at the University of Alberta. Here, I delved deeper into machine learning research. 
-      
-      As building a machine learning solution is similar to engineering a software solution, that is the intersection I bring. I am particularly excited about applying machine learning engineering in the field of health and biotech and have built a number of projects in this domain.
-      My projects also range from large language models to generative and self-supervised models, all with a focus on performance, interpretability, and scalability.
+      My professional journey began as a software engineer in the financial industry, where I honed my skills in agile development and object-oriented programming. Driven by a growing desire to deepen my knowledge, I pursued a master’s degree at the University of Alberta, where I focused on machine learning research.
+
+      To me, building a machine learning solution is much like engineering a software system — and that’s the intersection I specialize in. I’m especially excited about applying machine learning in the fields of health and biotech, and I’ve developed several projects in this space. My work spans large language models, generative approaches, and self-supervised learning, all with a focus on performance, interpretability, and scalability.
     `,
-    image: "/udituen-big.jpg",
+    image: "/udituen-big.JPG",
   },
 };
 
