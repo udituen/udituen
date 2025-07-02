@@ -28,7 +28,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Uduak Ituen",
     specialty: "Machine Learning & MLOps Engineer",
     summary:
-      "Canada based Machine Learning Engineer with 2 years experience as a software engineer and 3 years machine learning engineering. Specialized in research and application of state-of-the-arts machine learning solutions, from development to production..",
+      "Canada-based Machine Learning Engineer with 2 years of experience as a Software Engineer and 3 years in Machine Learning Engineering. Specialized in the research and application of state-of-the-art machine learning solutions, from development to production.",
     email: "udituen@gmail.com",
   },
   experience: [
