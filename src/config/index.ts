@@ -96,8 +96,8 @@ export const SITE_CONTENT: SiteContent = {
       name: "UCI-Diabetes Readmission Prediction",
       summary: "A Supervised algorithm used in predicting the readmission of diabetes patients in UCI",
       linkPreview: "/",
-      linkSource: "https://github.com/udituen/UCI-diabetes-readmission-predictor",
-      image: "/pred.jpeg",
+      linkSource: "",
+      image: "/pred.jpg",
     },
     {
       name: "Chemical Active Agent Prediction",
