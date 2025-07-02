@@ -28,7 +28,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Uduak Ituen",
     specialty: "Machine Learning & MLOps Engineer",
     summary:
-      "Canada-based Machine Learning Engineer with 2 years of experience as a Software Engineer and 3 years in Machine Learning Engineering. Specialized in the research and application of state-of-the-art machine learning solutions, from development to production.",
+      "Canada-based Machine Learning Engineer with over 2 years of experience as a Software Engineer and over 3 years in Machine Learning Engineering. Specialized in the research and application of state-of-the-art machine learning solutions, from development to production.",
     email: "udituen@gmail.com",
   },
   experience: [
@@ -38,19 +38,23 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Feb 2025",
       endDate: "June 2025",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        "ensuring seamless integration between research and production environments",
+        "Architected production-ready ML infrastructure for model serving using Docker, Apache Airflow, and MLflow, delivering scalable API endpoints and automated pipelines within 5 months to accelerate ongoing researchworkflows",
+        "Implemented automated CI/CD pipelines for ML model deployment, enabling rapid model iteration andconsistent research workflow automation",
+        "Initiated active learning methodology for continuous model improvement, automating uncertainty-based dataselection to optimize and reduce the cost of wet lab experiments and enhance model accuracy",
+        "Developed comprehensive documentation for data and deployment strategies, system procedures, and troubleshooting guides, enabling knowledge transfer members of the team"
       ],
     },
     {
       company: "The University of the Fraser Valley",
-      position: "Software Engineering Instructor (Seasonal)",
+      position: "Software Engineering Instructor (Contract)",
       startDate: "August 2024",
       endDate: "December 2024",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "Delivered technical training to 94 students on modern development practices including Git version control, CI/CD pipelines, and Agile methodologies",
+        "Designed hands-on curriculum featuring project-based assessments aligned with industry DevOps practices",
+        "Mentored students on troubleshooting complex technical problems and communicating solutions effectively", 
+        "Guided students through full software development lifecycles, from requirement gathering to deployment",
       ],
     },
     {
@@ -58,16 +62,26 @@ export const SITE_CONTENT: SiteContent = {
       position: "Graduate Research Assistant - Machine Learning",
       startDate: "May 2022",
       endDate: "May 2024",
-      summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
-    },
+      summary: [
+        "Fine-tuned self-supervised ML models (VIME, TabNet) for telecom fraud detection, demonstrating measurable performance gains over classical supervised learning approaches",
+        "Enhanced model accuracy by 2% through TabGAN implementation for synthetic data generation, optimizing performance against baseline production models",
+        "Conducted literature reviews and comparative analysis of state-of-the-art fraud detection techniques, establishing benchmarks and evaluation metrics for model performance assessment",
+        '"Orchestrated large-scale model training using AWS SageMaker and Canada’s High-Performance Computing infrastructure for GPU-accelerated deep learning workflows"',
+      ],
+      },
     {
       company: "Fidelity Bank",
       position: "Software Engineer",
       startDate: "August 2019",
       endDate: "July 2021",
-      summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+      summary: [
+        "Maintained critical product-level banking systems serving thousands of users, ensuring 99.9% uptime through proactive monitoring",
+        "Automated cross-departmental processes eliminating manual workflows and improving operational efficiency",
+        "Managed ETL operations for enterprise data warehouse, optimizing data pipelines and reducing processing errors by 25%",
+        "Developed monitoring dashboards for real-time system performance tracking and KPI reporting",
+        "Provided technical support for internal applications including hardware inventory systems and investigation portals",
+        "Collaborated with full-stack development team on product-level system redesign projects, implementing enterprise-grade software engineering principles and improving user engagement by 30%",
+      ]
     },
   ],
   projects: [
@@ -75,27 +89,27 @@ export const SITE_CONTENT: SiteContent = {
       name: "AgriQuery",
       summary: "A RAG-based LLM Q&A app for agricultural researchers.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "https://github.com/udituen/AgriQuery",
       image: "/spotifu.png",
     },
     {
       name: "UCI-Diabetes Readmission Prediction",
       summary: "A Supervised algorithm used in predicting the readmission of diabetes patients in UCI",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "https://github.com/udituen/UCI-diabetes-readmission-predictor",
       image: "/shopify-clon.png",
     },
     {
       name: "Chemical Active Agent Prediction",
       summary: "A supervised model trained to process SMILES chemicals and output a prediction of active or not active reagents",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "https://huggingface.co/spaces/udituen/chemicals_lab",
       image: "/clone-ig.png",
     },
   ],
   about: {
     description: `
-      Hi, I’m Uduak Ituen — a mathematics enthusiast with a passion for bringing mathematical functions to life through machine learning models. With a strong background in computer science and research methodologies, I thrive in translating theory into fully developed machine learning solutions.
+      Hi, I’m Uduak Ituen — a mathematics enthusiast with a passion for bringing mathematical functions to life through machine learning models. With a strong background in computer science, software engineering and  research methodologies, I thrive in translating theory into fully developed machine learning solutions and ultimately to production environment.
 
       My professional journey began as a software engineer in the financial industry, where I honed my skills in agile development and object-oriented programming. Driven by a growing desire to deepen my knowledge, I pursued a master’s degree at the University of Alberta, where I focused on machine learning research.
 
