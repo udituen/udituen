@@ -38,7 +38,7 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Feb 2025",
       endDate: "June 2025",
       summary: [
-        "ensuring seamless integration between research and production environments",
+        "Collaborated with a cross-functional research team to translate business requirements into technical solutions, ensuring seamless integration between research and production environments",
         "Architected production-ready ML infrastructure for model serving using Docker, Apache Airflow, and MLflow, delivering scalable API endpoints and automated pipelines within 5 months to accelerate ongoing researchworkflows",
         "Implemented automated CI/CD pipelines for ML model deployment, enabling rapid model iteration andconsistent research workflow automation",
         "Initiated active learning methodology for continuous model improvement, automating uncertainty-based dataselection to optimize and reduce the cost of wet lab experiments and enhance model accuracy",
@@ -66,7 +66,7 @@ export const SITE_CONTENT: SiteContent = {
         "Fine-tuned self-supervised ML models (VIME, TabNet) for telecom fraud detection, demonstrating measurable performance gains over classical supervised learning approaches",
         "Enhanced model accuracy by 2% through TabGAN implementation for synthetic data generation, optimizing performance against baseline production models",
         "Conducted literature reviews and comparative analysis of state-of-the-art fraud detection techniques, establishing benchmarks and evaluation metrics for model performance assessment",
-        '"Orchestrated large-scale model training using AWS SageMaker and Canada’s High-Performance Computing infrastructure for GPU-accelerated deep learning workflows"',
+        "Orchestrated large-scale model training using AWS SageMaker and Canada’s High-Performance Computing infrastructure for GPU-accelerated deep learning workflows",
       ],
       },
     {
@@ -90,7 +90,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "A RAG-based LLM Q&A app for agricultural researchers.",
       linkPreview: "/",
       linkSource: "https://github.com/udituen/AgriQuery",
-      image: "/spotifu.png",
+      image: "/agriquery.png",
     },
     {
       name: "UCI-Diabetes Readmission Prediction",
@@ -104,7 +104,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "A supervised model trained to process SMILES chemicals and output a prediction of active or not active reagents",
       linkPreview: "/",
       linkSource: "https://huggingface.co/spaces/udituen/chemicals_lab",
-      image: "/clone-ig.png",
+      image: "/chemical_lib.png",
     },
   ],
   about: {
