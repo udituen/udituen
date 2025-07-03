@@ -39,10 +39,10 @@ export const SITE_CONTENT: SiteContent = {
       endDate: "June 2025",
       summary: [
         "Collaborated with a cross-functional research team to translate business requirements into technical solutions, ensuring seamless integration between research and production environments",
-        "Architected production-ready ML infrastructure for model serving using Docker, Apache Airflow, and MLflow, delivering scalable API endpoints and automated pipelines within 5 months to accelerate ongoing researchworkflows",
-        "Implemented automated CI/CD pipelines for ML model deployment, enabling rapid model iteration andconsistent research workflow automation",
-        "Initiated active learning methodology for continuous model improvement, automating uncertainty-based dataselection to optimize and reduce the cost of wet lab experiments and enhance model accuracy",
-        "Developed comprehensive documentation for data and deployment strategies, system procedures, and troubleshooting guides, enabling knowledge transfer members of the team"
+        "Architected production-ready ML infrastructure for model serving using Docker, Apache Airflow, and MLflow, delivering scalable API endpoints and automated pipelines within 5 months to accelerate ongoing research workflows",
+        "Implemented automated CI/CD pipelines for ML model deployment, enabling rapid model iteration and consistent research workflow automation",
+        "Initiated active learning methodology for continuous model improvement, automating uncertainty-based data selection to optimize and reduce the cost of wet lab experiments and enhance model accuracy",
+        "Developed comprehensive documentation for data and deployment strategies, following MLOps and project managament standards. Enabling knowledge transfer among members of the team"
       ],
     },
     {
@@ -61,10 +61,10 @@ export const SITE_CONTENT: SiteContent = {
       company: "The University of Alberta",
       position: "Graduate Research Assistant - Machine Learning",
       startDate: "May 2022",
-      endDate: "May 2024",
+      endDate: "June 2024",
       summary: [
         "Fine-tuned self-supervised ML models (VIME, TabNet) for telecom fraud detection, demonstrating measurable performance gains over classical supervised learning approaches",
-        "Enhanced model accuracy by 2% through TabGAN implementation for synthetic data generation, optimizing performance against baseline production models",
+        "Enhanced model accuracy by 2% through TabGAN implementation for synthetic data generation, optimizing performance against baseline supervised models",
         "Conducted literature reviews and comparative analysis of state-of-the-art fraud detection techniques, establishing benchmarks and evaluation metrics for model performance assessment",
         "Orchestrated large-scale model training using AWS SageMaker and Canada’s High-Performance Computing infrastructure for GPU-accelerated deep learning workflows",
       ],
@@ -94,7 +94,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "UCI-Diabetes Readmission Prediction",
-      summary: "A Supervised algorithm used in predicting the readmission of diabetes patients in UCI",
+      summary: "A supervised algorithm used in predicting the readmission of diabetes patients in UCI",
       linkPreview: "/",
       linkSource: "",
       image: "/pred.jpg",
@@ -109,11 +109,11 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Uduak Ituen — a mathematics enthusiast with a passion for bringing mathematical functions to life through machine learning models. With a strong background in computer science, software engineering and  research methodologies, I thrive in translating theory into fully developed machine learning solutions and ultimately to production environment.
+      Hi, I’m Uduak Ituen — a mathematics enthusiast with a passion for bringing mathematical functions to life through machine learning models. With a strong background in computer science, software engineering, and research, I thrive on translating theory into end-to-end machine learning solutions, from development to production.
 
-      My professional journey began as a software engineer in the financial industry, where I honed my skills in agile development and object-oriented programming. Driven by a growing desire to deepen my knowledge, I pursued a master’s degree at the University of Alberta, where I focused on machine learning research.
+      I began my professional journey as a software engineer in the financial industry, where I developed expertise in agile development and object-oriented programming. Eager to deepen my technical foundation, I pursued a master’s degree at the University of Alberta, focusing on machine learning research.
 
-      To me, building a machine learning solution is much like engineering a software system — and that’s the intersection I specialize in. I’m especially excited about applying machine learning in the fields of health and biotech, and I’ve developed several projects in this space. My work spans large language models, generative approaches, and self-supervised learning, all with a focus on performance, interpretability, and scalability.
+      To me, building a machine learning solution is much like engineering a software system — and that’s the intersection I specialize in: bridging the gap between theory and real-world application. I’m especially excited about applying ML in health and biotech, and I’ve developed several projects in this space. Through coursework and personal projects, I’ve explored large language models, generative techniques, and self-supervised learning — all with an emphasis on correctness, interpretability, and scalability.
     `,
     image: "/udituen-big.JPG",
   },
