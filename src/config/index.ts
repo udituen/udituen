@@ -109,11 +109,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Uduak Ituen — a mathematics enthusiast with a passion for bringing mathematical functions to life through machine learning models. With a strong background in computer science, software engineering, and research, I thrive on translating theory into end-to-end machine learning solutions, from development to production.
-
-      I began my professional journey as a software engineer in the financial industry, where I developed expertise in agile development and object-oriented programming. Eager to deepen my technical foundation, I pursued a master’s degree at the University of Alberta, focusing on machine learning research.
-
-      To me, building a machine learning solution is much like engineering a software system — and that’s the intersection I specialize in: bridging the gap between theory and real-world application. I’m especially excited about applying ML in health and biotech, and I’ve developed several projects in this space. Through coursework and personal projects, I’ve explored large language models, generative techniques, and self-supervised learning — all with an emphasis on correctness, interpretability, and scalability.
+    Hi, I’m Uduak Ituen — a mathematics enthusiast with a passion for transforming mathematical concepts into real-world solutions through machine learning. With a strong background in computer science, software engineering, and research, I thrive on translating theory into robust, end-to-end machine learning pipelines ready for production. I began my professional journey as a software engineer in the financial industry, where I honed agile practices and object-oriented design principles—skills I now apply to building scalable ML systems. Eager to deepen my technical foundation, I pursued a master’s degree at the University of Alberta, focusing on machine learning research. I see ML engineering as an extension of software development—both require structured thinking, iterative design, and real-world validation. I’m especially excited about applying ML in health and biotech, where I’ve built several projects at the intersection of data and biology. Through coursework and personal experimentation, I’ve explored large language models, generative techniques, and self-supervised learning, with a focus on precision, interpretability, and scalability.
     `,
     image: "/udituen-big.JPG",
   },
