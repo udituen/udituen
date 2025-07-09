@@ -86,7 +86,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "AgriQuery",
+      name: "AgriQuery (Ongoing)",
       summary: "A RAG-based LLM Q&A app for agricultural researchers.",
       linkPreview: "/",
       linkSource: "https://github.com/udituen/AgriQuery",
@@ -100,7 +100,7 @@ export const SITE_CONTENT: SiteContent = {
     //   image: "/pred.jpg",
     // },
     {
-      name: "Chemical Active Agent Prediction",
+      name: "Chemical Active Agent Prediction (Active)",
       summary: "A supervised model trained to process SMILES chemicals and output a prediction of active or not active reagents",
       linkPreview: "/",
       linkSource: "https://huggingface.co/spaces/udituen/chemicals_lab",
