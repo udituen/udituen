@@ -92,13 +92,13 @@ export const SITE_CONTENT: SiteContent = {
       linkSource: "https://github.com/udituen/AgriQuery",
       image: "/agriquery.png",
     },
-    {
-      name: "UCI-Diabetes Readmission Prediction",
-      summary: "A supervised algorithm used in predicting the readmission of diabetes patients in UCI",
-      linkPreview: "/",
-      linkSource: "",
-      image: "/pred.jpg",
-    },
+    // {
+    //   name: "UCI-Diabetes Readmission Prediction",
+    //   summary: "A supervised algorithm used in predicting the readmission of diabetes patients in UCI",
+    //   linkPreview: "/",
+    //   linkSource: "",
+    //   image: "/pred.jpg",
+    // },
     {
       name: "Chemical Active Agent Prediction",
       summary: "A supervised model trained to process SMILES chemicals and output a prediction of active or not active reagents",
