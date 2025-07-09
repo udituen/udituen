@@ -39,7 +39,7 @@ export const SITE_CONTENT: SiteContent = {
       endDate: "June 2025",
       summary: [
         "Collaborated with a cross-functional research team to translate business requirements into technical solutions, ensuring seamless integration between research and production environments",
-        "Architected production-ready ML infrastructure for model serving using Docker, Apache Airflow, and MLflow, delivering scalable API endpoints and automated pipelines within 5 months to accelerate ongoing research workflows",
+        "Architected production-ready ML infrastructure for model serving using Docker, Apache Airflow, and MLflow within 5 months to accelerate ongoing research workflows",
         "Implemented automated CI/CD pipelines for ML model deployment, enabling rapid model iteration and consistent research workflow automation",
         "Initiated active learning methodology for continuous model improvement, automating uncertainty-based data selection to optimize and reduce the cost of wet lab experiments and enhance model accuracy",
         "Developed comprehensive documentation for data and deployment strategies, following MLOps and project managament standards. Enabling knowledge transfer among members of the team"
