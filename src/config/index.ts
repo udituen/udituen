@@ -111,7 +111,7 @@ export const SITE_CONTENT: SiteContent = {
     description: `
     Hi, I’m Uduak Ituen — a mathematics enthusiast with a passion for transforming mathematical concepts into real-world solutions through machine learning. With a strong background in computer science, software engineering, and research, I thrive on translating theory into robust, end-to-end machine learning pipelines ready for production. I began my professional journey as a software engineer in the financial industry, where I honed agile practices and object-oriented design principles—skills I now apply to building scalable ML systems. Eager to deepen my technical foundation, I pursued a master’s degree at the University of Alberta, focusing on machine learning research. I see ML engineering as an extension of software development—both require structured thinking, iterative design, and real-world validation. I’m especially excited about applying ML in health and biotech, where I’ve built several projects at the intersection of data and biology. Through coursework and personal experimentation, I’ve explored large language models, generative techniques, and self-supervised learning, with a focus on precision, interpretability, and scalability.
     `,
-    image: "/20250711_154627.jpg",
+    image: "/20250711_154618.jpg",
   },
 };
 
