@@ -102,8 +102,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Chemical Active Agent Prediction (Active)",
       summary: "A supervised model trained to process SMILES chemicals and output a prediction of active or not active reagents",
-      linkPreview: "/",
-      linkSource: "https://huggingface.co/spaces/udituen/chemicals_lab",
+      linkPreview: "https://huggingface.co/spaces/udituen/chemicals_lab",
+      linkSource: "https://huggingface.co/spaces/udituen/chemicals_lab/tree/main",
       image: "/screen-capture.gif",
     },
   ],
