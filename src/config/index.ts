@@ -88,7 +88,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "AgriQuery (Ongoing)",
       summary: "A RAG-based LLM Q&A app for agricultural researchers.",
-      linkPreview: "/",
+      linkPreview: "https://huggingface.co/spaces/udituen/agriquery",
       linkSource: "https://github.com/udituen/AgriQuery",
       image: "/agriquery.png",
     },
