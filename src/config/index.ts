@@ -86,11 +86,18 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "AgriQuery (Ongoing)",
+      name: "AgriQuery",
       summary: "A RAG-based LLM Q&A app for agricultural researchers.",
       linkPreview: "https://huggingface.co/spaces/udituen/agriquery",
       linkSource: "https://github.com/udituen/AgriQuery",
       image: "/agriquery.png",
+    },    
+    {
+      name: "DocsQA (Ongoing)",
+      summary: "A RAG-Based document query system. Users upload document in pdf/txt format and query the document uploaded. Future version would allow for synthesis of multiple documents",
+      linkPreview: "/",
+      linkSource: "",
+      image: "/pred.jpg",
     },
     // {
     //   name: "UCI-Diabetes Readmission Prediction",
