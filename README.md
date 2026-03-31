@@ -1,10 +1,10 @@
-# Hey, I'm Uduak 👋
+# Hey, I'm Uduak 
 
 > *Don't just build for today — architect for scale, engineer for longevity, and deploy with conviction.*
 
 ---
 
-### 🧠 AI/ML Engineer · MLOps · RAG & LLM Systems
+### AI/ML Engineer · MLOps · RAG & LLM Systems
 
 I design and ship production-grade AI/ML systems — from raw data pipelines to model-serving APIs — with a strong focus on reproducibility, observability, and scale. With **2+ years in software engineering** and **4 years building AI/ML systems**, I bridge the gap between research and production.
 
@@ -35,7 +35,7 @@ I design and ship production-grade AI/ML systems — from raw data pipelines to 
 
 ---
 
-### 🚀 Currently Building
+### Currently Building
 
 **🔬 Diabetes Readmission Prediction — MLOps on GCP**
 > An end-to-end ML system for predicting hospital readmissions, built with production-first thinking.
@@ -55,7 +55,7 @@ I design and ship production-grade AI/ML systems — from raw data pipelines to 
 
 ---
 
-### 🌐 Find Me
+### Find Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-udituen.github.io-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://udituen.github.io)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21F?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/udituen)
