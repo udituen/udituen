@@ -1,6 +1,6 @@
 # Hey, I'm Uduak 
 
-> *Don't just build for today, architect for scale, engineer for longevity, and deploy with conviction.*
+> *My Mantra - Don't just build for today, architect for scale, engineer for longevity, and deploy with conviction.*
 
 ---
 
