@@ -43,16 +43,6 @@ I design and ship production-grade AI/ML systems from raw data pipelines to mode
 - `FastAPI` inference service deployed on **Google Cloud Run**
 - CI/CD with **GitHub Actions** — test, build, push, deploy
 - Fully reproducible and containerized with Docker
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udituen&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udituen&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160"/>
-</p>
-
 ---
 
 ### Find Me
