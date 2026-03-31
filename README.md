@@ -6,7 +6,7 @@
 
 ### AI/ML Engineer · MLOps · RAG & LLM Systems
 
-I design and ship production-grade AI/ML systems — from raw data pipelines to model-serving APIs — with a strong focus on reproducibility, observability, and scale. With **2+ years in software engineering** and **4 years building AI/ML systems**, I bridge the gap between research and production.
+I design and ship production-grade AI/ML systems from raw data pipelines to model-serving APIs, with a strong focus on reproducibility, observability, and scale. With **2+ years in software engineering** and **4 years building AI/ML systems in academic and government settings**, I bridge the gap between research and production.
 
 ---
 
