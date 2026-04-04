@@ -4,10 +4,10 @@
 
 ---
 
-### AI/ML Engineer · MLOps · RAG & LLM Systems
+### AI/ML Engineer | LLM & RAG · MLOps · Quality Engineering | Azure AI Certified
 
-I design and ship production-grade AI/ML systems from raw data pipelines to model-serving APIs, with a strong focus on reproducibility, observability, and scale. With **2+ years in software engineering** and **4 years building AI/ML systems in academic and government settings**, I bridge the gap between research and production.
-
+I design and ship production-grade AI/ML systems — from data pipelines and model training to REST API deployment and CI/CD — with a strong focus on reproducibility, testability, and observability. Background in software engineering (Fidelity Bank), ML research (University of Alberta MSc), and government MLOps work (Agriculture & Agri-Food Canada). I also evaluate LLM outputs at scale and have taught test-driven development at the university level, so quality isn't an afterthought in how I build.
+Currently exploring the intersection of ML engineering and quality engineering in the Greater Toronto Area.
 ---
 
 ### 🛠 Tech Stack
@@ -18,8 +18,6 @@ I design and ship production-grade AI/ML systems from raw data pipelines to mode
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-
-**Models & Techniques:** TabNet · VIME · YOLOvX · CLIP · RAG · LLMs
 
 #### MLOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -32,6 +30,15 @@ I design and ship production-grade AI/ML systems from raw data pipelines to mode
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### Quality Engineering
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Practices:** TDD · API Testing · CI/CD Test Automation · Model Evaluation · Regression Testing
 
 ---
 
