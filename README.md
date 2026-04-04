@@ -6,8 +6,8 @@
 
 ### AI/ML Engineer | LLM & RAG · MLOps · Quality Engineering | Azure AI Certified
 
-*I design and ship production-grade AI/ML systems — from data pipelines and model training to REST API deployment and CI/CD — with a strong focus on reproducibility, testability, and observability. Background in software engineering (Fidelity Bank), ML research (University of Alberta MSc), and government MLOps work (Agriculture & Agri-Food Canada). I also evaluate LLM outputs at scale and have taught test-driven development at the university level, so quality isn't an afterthought in how I build.
-Currently exploring the intersection of ML engineering and quality engineering in the Greater Toronto Area.*
+****I design and ship production-grade AI/ML systems — from data pipelines and model training to REST API deployment and CI/CD — with a strong focus on reproducibility, testability, and observability. Background in software engineering (Fidelity Bank), ML research (University of Alberta MSc), and government MLOps work (Agriculture & Agri-Food Canada). I also evaluate LLM outputs at scale and have taught test-driven development at the university level, so quality isn't an afterthought in how I build.
+Currently exploring the intersection of ML engineering and quality engineering in the Greater Toronto Area.****
 ---
 
 ### 🛠 Tech Stack
@@ -45,12 +45,16 @@ Currently exploring the intersection of ML engineering and quality engineering i
 ### Currently Building
 
 **🔬 Diabetes Readmission Prediction — MLOps on GCP**
-> An end-to-end ML system for predicting hospital readmissions, built with production-first thinking.
+> An end-to-end ML system for predicting hospital readmissions, built with production-first thinking and a test-driven deployment pipeline.
+
 - `scikit-learn` pipeline for feature engineering & model training
 - `FastAPI` inference service deployed on **Google Cloud Run**
-- CI/CD with **GitHub Actions** — test, build, push, deploy
+- Integration tests validating API contracts, input schemas, and prediction consistency
+- CI/CD with GitHub Actions — test gates run on every push before build and deploy
+- Automated API test suite with Playwright + Pytest
 - Fully reproducible and containerized with Docker
 ---
+
 
 ### Find Me
 
