@@ -1,6 +1,6 @@
 # Hey, I'm Uduak 
 
-> *My Mantra - Don't just build for today, architect for scale, engineer for longevity, and deploy with conviction.*
+> *I build AI systems that are reliable enough to ship and honest enough to trust.*
 
 ---
 
