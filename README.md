@@ -42,7 +42,7 @@ Currently exploring the intersection of ML engineering and quality engineering i
 
 ---
 
-### Currently Building
+### Currently Building - 90% completed
 
 **🔬 Diabetes Readmission Prediction — MLOps on GCP**
 > An end-to-end ML system for predicting hospital readmissions, built with production-first thinking and a test-driven deployment pipeline.
