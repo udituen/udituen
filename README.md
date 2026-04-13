@@ -47,7 +47,6 @@ Currently exploring the intersection of ML engineering and quality engineering i
 
 - `scikit-learn` pipeline for feature engineering & model training
 - `FastAPI` inference service deployed on **Google Cloud Run**
-- Integration tests validating API contracts, input schemas, and prediction consistency
 - CI/CD with GitHub Actions — test gates run on every push before build and deploy
 - Automated API test suite with Playwright + Pytest
 - Fully reproducible and containerized with Docker
