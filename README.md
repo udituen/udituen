@@ -5,7 +5,6 @@
 ---
 
 > I design and ship production-grade AI/ML systems — from data pipelines and model training to REST API deployment and CI/CD — with a strong focus on reproducibility, testability, and observability. Background in software engineering (Fidelity Bank), ML research (University of Alberta MSc), and government MLOps work (Agriculture & Agri-Food Canada). I also evaluate LLM outputs at scale and have taught test-driven development at the university level, so quality isn't an afterthought in how I build.
-Currently exploring the intersection of ML engineering and quality engineering in the Greater Toronto Area.
 ---
 
 ### 🛠 Tech Stack
