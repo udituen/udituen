@@ -18,7 +18,6 @@
 
 #### MLOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -39,7 +38,7 @@
 
 ---
 
-### Currently Building - 90% completed
+### Currently Building
 
 **🔬 Diabetes Readmission Prediction — MLOps on GCP**
 > An end-to-end ML system for predicting hospital readmissions, built with production-first thinking and a test-driven deployment pipeline.
