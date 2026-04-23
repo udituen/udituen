@@ -1,6 +1,6 @@
 # Hey, I'm Uduak 
 
-> *I build AI systems that are reliable enough to ship and honest enough to trust.*
+> *I build systems that are reliable enough to ship and honest enough to trust.*
 
 ---
 
