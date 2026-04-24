@@ -4,7 +4,7 @@
 
 ---
 
-> I design and ship production-grade AI/ML systems, from data pipelines and model training to REST API deployment and CI/CD, with a strong focus on reproducibility, testability, and observability. Background in software development with Coldfusion and Javascript (Fidelity Bank), ML research (University of Alberta MSc), and government MLOps work (Agriculture & Agri-Food Canada). I also evaluate LLM outputs at scale and have taught test-driven development at the university level, so quality isn't an afterthought in how I build.
+> I design and ship production-grade AI/ML systems, from data pipelines and model training to REST API deployment and CI/CD, with a strong focus on reproducibility, testability, and observability. Background in software development with Coldfusion and JavaScript (Fidelity Bank), ML research (University of Alberta MSc), and government MLOps work (Agriculture & Agri-Food Canada). I also evaluate LLM outputs at scale and have taught test-driven development at the university level, so quality isn't an afterthought in how I build.
 ---
 
 ### 🛠 Tech Stack
@@ -29,9 +29,7 @@
 
 #### Quality Engineering
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 **Practices:** TDD · API Testing · CI/CD Test Automation · Model Evaluation · Regression Testing
@@ -45,8 +43,7 @@
 
 - `scikit-learn` pipeline for feature engineering & model training
 - `FastAPI` inference service deployed on **Google Cloud Run**
-- CI/CD with GitHub Actions — test gates run on every push before build and deploy
-- Automated API test suite with Playwright + Pytest
+- CI/CD with GitHub Actions, run on every push before build and deploy
 - Fully reproducible and containerized with Docker
 ---
 
